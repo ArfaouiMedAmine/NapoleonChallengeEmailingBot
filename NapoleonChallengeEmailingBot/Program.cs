@@ -25,6 +25,7 @@ namespace NapoleonChallengeEmailingBot
                    Console.WriteLine(message);
                    email.SendUpdatingMail(message,"Napoleon","mohamedamine.arfaoui@esprit.tn");
                 }
+                listInitial = listUpdated ; 
                 c++;
 
             }
