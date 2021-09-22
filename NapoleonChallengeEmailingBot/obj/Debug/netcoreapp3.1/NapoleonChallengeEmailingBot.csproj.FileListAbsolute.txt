@@ -1,0 +1,17 @@
+C:\Users\jamid\source\repos\NapoleonChallengeEmailingBot\NapoleonChallengeEmailingBot\bin\Debug\netcoreapp3.1\NapoleonChallengeEmailingBot.exe
+C:\Users\jamid\source\repos\NapoleonChallengeEmailingBot\NapoleonChallengeEmailingBot\bin\Debug\netcoreapp3.1\NapoleonChallengeEmailingBot.deps.json
+C:\Users\jamid\source\repos\NapoleonChallengeEmailingBot\NapoleonChallengeEmailingBot\bin\Debug\netcoreapp3.1\NapoleonChallengeEmailingBot.runtimeconfig.json
+C:\Users\jamid\source\repos\NapoleonChallengeEmailingBot\NapoleonChallengeEmailingBot\bin\Debug\netcoreapp3.1\NapoleonChallengeEmailingBot.runtimeconfig.dev.json
+C:\Users\jamid\source\repos\NapoleonChallengeEmailingBot\NapoleonChallengeEmailingBot\bin\Debug\netcoreapp3.1\NapoleonChallengeEmailingBot.dll
+C:\Users\jamid\source\repos\NapoleonChallengeEmailingBot\NapoleonChallengeEmailingBot\bin\Debug\netcoreapp3.1\NapoleonChallengeEmailingBot.pdb
+C:\Users\jamid\source\repos\NapoleonChallengeEmailingBot\NapoleonChallengeEmailingBot\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Users\jamid\source\repos\NapoleonChallengeEmailingBot\NapoleonChallengeEmailingBot\obj\Debug\netcoreapp3.1\NapoleonChallengeEmailingBot.csprojAssemblyReference.cache
+C:\Users\jamid\source\repos\NapoleonChallengeEmailingBot\NapoleonChallengeEmailingBot\obj\Debug\netcoreapp3.1\NapoleonChallengeEmailingBot.AssemblyInfoInputs.cache
+C:\Users\jamid\source\repos\NapoleonChallengeEmailingBot\NapoleonChallengeEmailingBot\obj\Debug\netcoreapp3.1\NapoleonChallengeEmailingBot.AssemblyInfo.cs
+C:\Users\jamid\source\repos\NapoleonChallengeEmailingBot\NapoleonChallengeEmailingBot\obj\Debug\netcoreapp3.1\NapoleonChallengeEmailingBot.csproj.CoreCompileInputs.cache
+C:\Users\jamid\source\repos\NapoleonChallengeEmailingBot\NapoleonChallengeEmailingBot\obj\Debug\netcoreapp3.1\NapoleonChallengeEmailingBot.csproj.CopyComplete
+C:\Users\jamid\source\repos\NapoleonChallengeEmailingBot\NapoleonChallengeEmailingBot\obj\Debug\netcoreapp3.1\NapoleonChallengeEmailingBot.dll
+C:\Users\jamid\source\repos\NapoleonChallengeEmailingBot\NapoleonChallengeEmailingBot\obj\Debug\netcoreapp3.1\NapoleonChallengeEmailingBot.pdb
+C:\Users\jamid\source\repos\NapoleonChallengeEmailingBot\NapoleonChallengeEmailingBot\obj\Debug\netcoreapp3.1\NapoleonChallengeEmailingBot.genruntimeconfig.cache
+C:\Users\jamid\source\repos\NapoleonChallengeEmailingBot\NapoleonChallengeEmailingBot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\jamid\source\repos\NapoleonChallengeEmailingBot\NapoleonChallengeEmailingBot\bin\Debug\netcoreapp3.1\Mandrill.dll
